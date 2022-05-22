@@ -82,6 +82,18 @@ Testing approach:
 •	Personal data being stored
 ## 1.7 Additional Documents:
 •	none
+## 1.8 Entry criteria defined
+• Requirements are defined and approved
+• Roles needed for the project are allocated
+• Test cases are developed and ready
+• Test environment and all other necesarry resources, tools and devices are available
+
+## 1.9 Exit criteria definited
+• Deadlines meet and budget diminish
+• Execution of all test cases
+• all the defects or bugs are corrected and closed
+• No high priority or severity or critical bug has been left out
+
 
 
 
