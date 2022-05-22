@@ -35,8 +35,8 @@ Test plan reviewed by: 	another QA
 ## 1.2 Tools	
 Jira	Final Project - Roadmap - Jira (atlassian.net)
 
-Confluence - requirements 	https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf -  Frecritement Module
-GIT - code	https://opensource-demo.orangehrmlive.com/index.php/recruitment/viewCandidates
+Confluence - https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf -  PIM Module
+GIT - code	https://opensource-demo.orangehrmlive.com
 ## 1.3 Test Cases	
 Migration- DB changes	YES
 	
