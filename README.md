@@ -12,7 +12,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 ## Functional specifications
 
-The Epic was created in JIRA, presents storys and teste cases wich describes the functional specifications of the API module, for which the final project is performed upon.
+The Epic was created in JIRA, presents storys and teste cases wich describes the functional specifications of the PIM module, for which the final project is performed upon.
 https://roxpog.atlassian.net/jira/software/c/projects/M2/boards/3/roadmap
 
 
