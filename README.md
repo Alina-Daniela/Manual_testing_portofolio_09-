@@ -63,23 +63,22 @@ Overview of the feature
 •	PIM module: Configuration, Employee List, Add Employee and Reports-Create, Read, Update, Delete
 
 •	Functionalities not tested
-•	Do inputs to the “Termination Reasons” submodule, screen successfully add and save a new record for database
+•	tests various in the “Termination Reasons” submodule
 •	PIM sample reports
 Testing approach:
 •	Manual
-•	types of testing: Functional, Smoke, Regression, Sanity testing, Regression testing, Integration testing, UI testing, Black box testing, Usability testing, cross browser testing
+•	types of testing: Functional, Smoke, Sanity testing, Regression testing, Integration testing, UI testing, Black box testing, Usability testing, cross browser testing
 •	Tools: Mozilla Browser, Chrome Browser, Edge Browser - functional testing, Google Spreadsheet - testcases, Word - test plan
 ## 1.5 Environment used for testing: 
 •	https://opensource-demo.orangehrmlive.com/index.php/
 •	Credentials: Admin/admin123
-•	API OAuth credentials: Roxana/Roxana
+•	API OAuth credentials: Alina/Alina
 ## 1.6 Acceptance criteria
 •	As an administrator I can see and click PIM module
-•	As an administrator I can see and add, delete, edit: Configuration, Employee List, Add Employee
+•	As an administrator I can see and add, delete, edit: Configuration, Employee List, Add Employee submodules
 
 ## 1.6 Risk analysis:
-•	Security breaches, any type of file could be added
-•	Personal data being stored
+•	Security breaches: personal data could be exposed
 ## 1.7 Additional Documents:
 •	none
 ## 1.8 Entry criteria defined
@@ -91,8 +90,7 @@ Testing approach:
 ## 1.9 Exit criteria definited
 • Deadlines meet and budget diminish
 • Execution of all test cases
-• all the defects or bugs are corrected and closed
-• No high priority or severity or critical bug has been left out
+• all the important defects or bugs are corrected and closed
 
 
 
