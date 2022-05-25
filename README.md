@@ -95,7 +95,8 @@ Testing approach:
 
 
 
+## Test cases link 
+https://docs.google.com/spreadsheets/d/1X3CQRxYhEUxj5cgTgjGOrK1LBBdJ2BwKo_d3NTrNI2A/edit?usp=sharing
 
-test to be added
 ## SQL section
 
