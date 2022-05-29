@@ -24,6 +24,7 @@ https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?ur
 ## Testing section
 ## 1.1 Test plan
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(13).png)
+
 Team Member and	Role:
 Alina Gangut -	QA,
 Roxana Pogacian -	DEV,
@@ -35,8 +36,9 @@ Alina Azoitei:QA
 Adela Gavrilov:	QA
 Test plan reviewed by: 	another QA
 
-## 1.2 Tools	
+## 1.2 Tools
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(15).png)
+
 Jira	Final Project - Roadmap - Jira (atlassian.net)
 
 Confluence - https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf -  PIM Module
@@ -46,7 +48,9 @@ Migration- DB changes	YES
 	
 Other Tools 	
 Overview of the feature
+
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-21%20(4)_LI.jpg)
+
 •	 Implement PIM module which contains:
 1. Configuration: - Optional Fields
                   - Custom Fields
@@ -59,6 +63,7 @@ Overview of the feature
 
 •	Create, Read, Update, Delete operations on Configuration, Employee List, Add Employee  
 •	These are added functionalities
+
 ## 1.4 Scope / Description of the Test Plan
 •	Application works as per documentation:
 •	Make sure the PIM module appears in various browsers and can be accessed.
