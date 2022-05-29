@@ -11,7 +11,7 @@ The final project will be split into 2 sections: Testing section and SQL section
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 ## Functional specifications
-![image]https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(7).png
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(7).png)
 
 
 The Epic was created in JIRA, presents storys and teste cases wich describes the functional specifications of the PIM module, for which the final project is performed upon.
