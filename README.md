@@ -24,10 +24,10 @@ https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?ur
 ## Testing section
 ## 1.1 Test plan
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(13).png)
-Team Member and	Role
-Alina Gangut -	QA
-Roxana Pogacian -	DEV
-Vlad Gheorghiu- PM
+Team Member and	Role:
+Alina Gangut -	QA,
+Roxana Pogacian -	DEV,
+Vlad Gheorghiu- PM,
 Test plan created by: 	QA
 Support Team Member (other teams involved )and 	Role
 Andrei Gheorhiu:QA
