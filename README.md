@@ -36,6 +36,7 @@ Adela Gavrilov:	QA
 Test plan reviewed by: 	another QA
 
 ## 1.2 Tools	
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(15).png)
 Jira	Final Project - Roadmap - Jira (atlassian.net)
 
 Confluence - https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf -  PIM Module
