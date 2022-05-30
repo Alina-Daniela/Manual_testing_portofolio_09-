@@ -136,7 +136,7 @@ Based on the analysis of the specifications, the test design techniques used in 
 * 
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(16)%20-%20Copie.png)
 
-The final reports shows that no efects or problems gone unresolved as the project progressed and defects found.
+The final reports shows that no efects or problems gone unresolved as the project progressed and no defects found.
  
 
 ## Test cases link 
