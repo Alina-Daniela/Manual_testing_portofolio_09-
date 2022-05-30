@@ -87,20 +87,29 @@ Testing approach:
 •	As an administrator I can see and click PIM module
 •	As an administrator I can see and add, delete, edit: Configuration, Employee List, Add Employee submodules
 
-## 1.6 Risk analysis:
+## 1.7 Risk analysis:
 •	Security breaches: personal data could be exposed
-## 1.7 Additional Documents:
+## 1.8 Additional Documents:
 •	none
-## 1.8 Entry criteria defined
+## 1.9.1 Entry criteria defined
 • Requirements are defined and approved
 • Roles needed for the project are allocated
 • Test cases are developed and ready
 • Test environment and all other necesarry resources, tools and devices are available
 
-## 1.9 Exit criteria definited
+## 1.9.2 Exit criteria definited
 • Deadlines meet and budget diminish
 • Execution of all test cases
 • all the important defects or bugs are corrected and closed
+## 1.9.3 Test monitoring and control
+ The current status of the testing process:
+• the test execution by test cycle
+ ![image](https://user-images.githubusercontent.com/105109506/170984665-4eab6f3d-b9f8-473a-9bb9-8e9fe3d9a47d.png)
+• the test execution by date
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(14).png)
+ 
+ 
+
 
 
 
