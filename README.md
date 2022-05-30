@@ -11,7 +11,15 @@ The final project will be split into 2 sections: Testing section and SQL section
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 ## Functional specifications
-![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-22%20(7).png)
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(34).png)
+
+This core module maintains all relevant employee related information, including different types of personal information, detailed qualifications, work experience, job related information.
+Information captured in this module is utilized by all other modules, eliminating data redundancy. 
+Records can be either entered manually one by one or imported from a CSV file. 
+You cannot import all the details but you can edit the remaining fields. 
+The functionality of the PIM Module differs depending on the rights of the user.
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(35).png)
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(30).png)
 
 
 The Epic was created in JIRA, presents storys and teste cases wich describes the functional specifications of the PIM module, for which the final project is performed upon.
