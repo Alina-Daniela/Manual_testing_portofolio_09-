@@ -104,15 +104,16 @@ Testing approach:
 ## 1.9.3 Test monitoring and control
  The current status of the testing process:
 • the test execution by test cycle
- ![image](https://user-images.githubusercontent.com/105109506/170984665-4eab6f3d-b9f8-473a-9bb9-8e9fe3d9a47d.png)
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(13).png)
+
 • the test execution by date
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(14).png)
+
+• cumulate flow diagrame
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(33).png)
+
  
  
-
-
-
-
 
 ## Test cases link 
 https://docs.google.com/spreadsheets/d/1X3CQRxYhEUxj5cgTgjGOrK1LBBdJ2BwKo_d3NTrNI2A/edit?usp=sharing
