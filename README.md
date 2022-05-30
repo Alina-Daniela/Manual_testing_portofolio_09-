@@ -118,7 +118,15 @@ Testing approach:
 
 • cumulate flow diagrame
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(33).png)
-
+## 2.1 Test design
+Functional test cases were created in Zephyr Squad. 
+Based on the analysis of the specifications, the test design techniques used in jira: 
+•boundary value analysis
+•equivalence partitioning
+•case testing.
+ ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(39).png)
+ ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(37).png)
+ ![image]( https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(38).png)
  
  
 
