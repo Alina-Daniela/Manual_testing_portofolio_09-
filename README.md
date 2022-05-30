@@ -133,11 +133,15 @@ Based on the analysis of the specifications, the test design techniques used in 
  ## 2.2 Test completion
  
 * The traceability matrix was generated and can be found here: https://roxpog.atlassian.net/projects/M2?selectedItem=com.thed.zephyr.je__traceability-project-level
+* 
+![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/upload/main
 
+The final reports shows that no efects or problems gone unresolved as the project progressed and defects found.
  
 
 ## Test cases link 
-https://docs.google.com/spreadsheets/d/1X3CQRxYhEUxj5cgTgjGOrK1LBBdJ2BwKo_d3NTrNI2A/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1X3CQRxYhEUxj5cgTgjGOrK1LBBdJ2BwKo_d3NTrNI2A/edit?usp=sharing)
+
 
 ## SQL section
 
