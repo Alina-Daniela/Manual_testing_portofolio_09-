@@ -1,4 +1,5 @@
 # Final project fot ITF Manual Testing Course
+My name is Alina Daniela Gangut, and I am presenting this portofolio with all the resources and tools that I experienced during the course.
 The purpose and scope of the final project for ITF Manual Testing Course is to use all knowledge and informations gained throught the course and apply them in practice.
 
 Aplication under test:
