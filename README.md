@@ -108,6 +108,7 @@ Testing approach:
 • Deadlines meet and budget diminish
 • Execution of all test cases
 • all the important defects or bugs are corrected and closed
+
 ## 1.9.3 Test monitoring and control
  The current status of the testing process:
 • the test execution by test cycle
@@ -118,6 +119,7 @@ Testing approach:
 
 • cumulate flow diagrame
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(33).png)
+
 ## 2.1 Test design
 Functional test cases were created in Zephyr Squad. 
 Based on the analysis of the specifications, the test design techniques used in jira: 
@@ -128,6 +130,10 @@ Based on the analysis of the specifications, the test design techniques used in 
  ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(37).png)
  ![image]( https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-30%20(38).png)
  
+ ## 2.2 Test completion
+ 
+* The traceability matrix was generated and can be found here: https://roxpog.atlassian.net/projects/M2?selectedItem=com.thed.zephyr.je__traceability-project-level
+
  
 
 ## Test cases link 
