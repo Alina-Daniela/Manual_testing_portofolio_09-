@@ -48,7 +48,6 @@ Migration- DB changes	YES
 	
 Other Tools 	
 Overview of the feature
-
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/2022-05-21%20(4)_LI.jpg)
 
 •	 Implement PIM module which contains:
