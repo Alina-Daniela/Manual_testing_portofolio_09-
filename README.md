@@ -148,6 +148,8 @@ https://docs.google.com/spreadsheets/d/1X3CQRxYhEUxj5cgTgjGOrK1LBBdJ2BwKo_d3NTrN
 
 ![image](https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/Arbore_Genealogic.sql)
 
+https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/Arbore_Genealogic.sql
+
 
 
 
