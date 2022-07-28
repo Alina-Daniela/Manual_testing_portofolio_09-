@@ -146,11 +146,16 @@ https://docs.google.com/spreadsheets/d/1X3CQRxYhEUxj5cgTgjGOrK1LBBdJ2BwKo_d3NTrN
 
 ## SQL section
 
+I have created two databases named 'Arbore_Genealogic' and 'Arborete'. I would like to specify that SQL section is not under the specification, aplication and API documentation for Orangehrm.
+The first database attached contain a table 'familie' with columns, the second database named 'Arborete' includes tables 'conifere' and 'stejari' compresing  specific columns to perform queries into SQL file. 
+
 
 
 https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/Arbore_Genealogic.sql
 
 https://github.com/Alina-Daniela/Manual_testing_portofolio_09-/blob/main/arbori.sql
+
+
 
 
 
